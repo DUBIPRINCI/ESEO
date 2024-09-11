@@ -1,0 +1,2 @@
+def dicho():
+    return "test"

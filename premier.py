@@ -1,5 +1,4 @@
 from random import*
-import math
 
 a = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789#@&%'
 def hacker():
@@ -58,14 +57,10 @@ def isChauffard():
     else :
         return "conduite légale"
 
-def heureIsValide(h):
-    for i in range(len(h)):
-        if h[i] == h
-
-# print(mdpgenerator())
+print(mdpgenerator())
 # hacker()
 # print(posneg())
 # print(imc())
 # print(celsiusToKelvin(14, True))
 # print(isChauffard())
-print(heureIsValide({'h':17, 'm':84, 's':32}))
+# print(heureIsValide({'h':17, 'm':84, 's':32}))
