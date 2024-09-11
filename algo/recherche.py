@@ -1,3 +1,10 @@
+#Victor Dubost
+
+import random
+liste = []
+for i in range(int(input("taille de la liste : "))):
+    liste.append(random.randint(0, 1000))
+
 def dichotomie(n, liste):
     debut = 0
     fin = len(liste) - 1
@@ -19,11 +26,10 @@ def triBulles(liste):
         for j in range(i, len(liste)):
             if liste[j] < liste[i]:
                 liste[i],liste[j] = liste[j],liste[i]
-                print(liste)
                 nbIterations += 1
-    return "nombre itérations : " + str(nbIterations)
+    return "nombre itérations tri à bulles : " + str(nbIterations)
 
-print(triBulles([12,52,63,97,54,29,91,24,38,46]))
+print(triBulles(liste))
 
 def triSelection(liste):
     nbIterations = 0
@@ -33,9 +39,19 @@ def triSelection(liste):
             if liste[min] > liste[j]:
                 min = j
         liste[i],liste[min] = liste[min],liste[i]
-        print(liste)
         nbIterations += 1
-    return "nombre itérations : " + str(nbIterations)
+    return "nombre itérations tri selection: " + str(nbIterations)
 
 
-print(triSelection([12,52,63,97,54,29,91,24,38,46]))
+print(triSelection(liste))
+
+# pas bon 
+def triInsertion(liste):
+    nbIterations = 0
+    for i in range(len(liste)):
+        liste.insert(liste[i],liste[1:liste])
+        liste = liste[1:len()]
+    # print(liste)
+    return "nombre itérations tri insertion : " + str(nbIterations)
+
+# print(triInsertion(liste))
