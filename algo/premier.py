@@ -1,4 +1,4 @@
-from random import*a
+from random import*
 
 a = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789#@&%'
 def hacker():
