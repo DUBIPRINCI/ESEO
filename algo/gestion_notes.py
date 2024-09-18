@@ -28,8 +28,12 @@ def isAdmis():
         
     return liste_admis, liste_recalés, liste_absents
 
-admis, recalés, absents = isAdmis()
 
+def addNote(nom, note):
+    dictionnaire[nom] = note
+
+addNote(input("nom : "), int(input("note : ")))
+admis, recalés, absents = isAdmis()
 print("admis : ", admis)
 print("recalés : ", recalés)
 print("absents : ", absents)
