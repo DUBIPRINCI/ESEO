@@ -69,12 +69,11 @@ def verifTakuzu(matrice):
         for j in range(len(matrice)):
             l1 += matrice[i][j]
             l2 += matrice[j][i]
-        if l1 != nb or l2 != nb :
-            return False
+        if l1 != nb or l2 != nb : return False
     return True
 
 # py()
 # spirale()
 # triangle()
-print(verifTakuzu(initTakuzuCorrect()))
-print(verifTakuzu(initTakuzuNonCorrect()))
+# print(verifTakuzu(initTakuzuCorrect()))
+# print(verifTakuzu(initTakuzuNonCorrect()))
