@@ -62,10 +62,8 @@ def initTakuzuNonCorrect () :
                      [1, 1, 0, 0]] )
     return matrice
 
-matrice=initTakuzuCorrect ()
-
 def verifTakuzu(matrice):
-    nb = sum(matrice[0])
+    nb = len(matrice)/2
     for i in range(len(matrice)):
         l1, l2 = 0, 0
         for j in range(len(matrice)):
@@ -78,4 +76,5 @@ def verifTakuzu(matrice):
 # py()
 # spirale()
 # triangle()
+print(verifTakuzu(initTakuzuCorrect()))
 print(verifTakuzu(initTakuzuNonCorrect()))
