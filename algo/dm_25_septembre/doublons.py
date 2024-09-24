@@ -10,7 +10,7 @@ def supprimer_doublons(liste):
         i += 1                          # on rajoute 1 pour passer au nombre a vérifier suivant
     return liste
 
-print(supprimer_doublons([1,1,2,2,3,4,5,5,6,7,7,8,9,10]))
+print("version 1 : ", supprimer_doublons([1,1,2,2,3,4,5,5,6,7,7,8,9,10]))
 
 
 #  Deuxième version plus optimale car l'on parcours moins la liste
@@ -22,4 +22,4 @@ def supprimer_doublons2(liste):                 # autre version enn créant une 
             resultat.append(element)            # si il n'y est pas encore, on l'ajoute dedans
     return resultat
 
-print(supprimer_doublons2([1,1,2,2,3,4,5,5,6,7,7,8,9,10]))
+print("version 2 : ", supprimer_doublons2([1,1,2,2,3,4,5,5,6,7,7,8,9,10]))
