@@ -82,11 +82,13 @@ _ _ _
 * RSSI
 
 ### Equipe support
-* #### Mettre à disposition les moyens logistiques necessaire à la gestion de crise
-* #### Participer à la gestion des ressources humaines impliquées dans la gstion de crise
-* #### Piloter les communications internes et externes
-* #### Solliciter de manière proportionnée les réseaux de soutien
+#### Objectifs
+* Mettre à disposition les moyens logistiques necessaire à la gestion de crise
+* Participer à la gestion des ressources humaines impliquées dans la gstion de crise
+* Piloter les communications internes et externes
+* Solliciter de manière proportionnée les réseaux de soutien
 
+#### Personnes
 * Responsable de la communication
 	* Mettre en oeuvre la stratégie globale de communication
 	* Collecter et synthétiser les réactions en interne et en externe
