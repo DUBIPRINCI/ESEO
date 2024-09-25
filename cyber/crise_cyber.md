@@ -70,3 +70,19 @@ Impact critique -> Analyser de la situation -> Rémédiation de l'incident / Eta
 * A froid (en général à l'écrit avec plan d'action)
 	* Réviser le plan d'action
 	* Mesurer les écarts par rapport à l'objectif ciblé
+
+_ _ _
+
+#### Cellule de crise décisionnelle en détail
+* Directeur de crise
+* Coordinnateur de crise
+* Pilote de la CDC opé. cyber & DSI
+* Responable admin et finance
+* Responsable de la main courante
+* RSSI
+
+#### Equipe support
+* Responsable de la communication
+* Responsable juridique
+* Référent RH
+* Responsable logistique
