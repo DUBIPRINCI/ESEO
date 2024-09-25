@@ -73,7 +73,7 @@ Impact critique -> Analyser de la situation -> Rémédiation de l'incident / Eta
 
 _ _ _
 
-#### Cellule de crise décisionnelle en détail
+### Cellule de crise décisionnelle en détail
 * Directeur de crise
 * Coordinnateur de crise
 * Pilote de la CDC opé. cyber & DSI
@@ -81,8 +81,40 @@ _ _ _
 * Responsable de la main courante
 * RSSI
 
-#### Equipe support
+### Equipe support
+* #### Mettre à disposition les moyens logistiques necessaire à la gestion de crise
+* #### Participer à la gestion des ressources humaines impliquées dans la gstion de crise
+* #### Piloter les communications internes et externes
+* #### Solliciter de manière proportionnée les réseaux de soutien
+
 * Responsable de la communication
+	* Mettre en oeuvre la stratégie globale de communication
+	* Collecter et synthétiser les réactions en interne et en externe
+	* Etre le porte-parole de l'organisation
 * Responsable juridique
+	* Evaluer les impacts de la crise
 * Référent RH
 * Responsable logistique
+
+### Salles de crises physiques et virtuelles
+
+#### Doivent être maintenues dans état de fonctionnement opérationnel
+
+* Salles de crise physiques
+	* Matériel de visio
+	* Ponts téléphoniques
+	* Postes de travail / imprimantes
+	* Tableau blanc
+	* Malette de crise (format papier)
+* Salle de crises virtuelles
+	* Une équipe TEAMS dédiée à la gestion de crise
+	* Ponts téléphoniques
+	* Postes opérationnels
+
+### Outils
+
+* Annuaire de crise : répertorie les coordonnées de tous les acteurs inclus dans la gestion de crise
+* 17 Fiches Missions
+* 5 Fiches Réflexes
+* 3 Modèles de Documents de reporting
+* Modèles de Communication interne & externe
