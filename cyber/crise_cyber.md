@@ -1,9 +1,11 @@
 # La Crise Cyber :
 
+
 ### Définitions
 * Destabilisation immédiate et majeure du fonctionneement courant d'une organisation en raison d'une ou plusieurs actions malveillantes sur ses services et ses outils numériques
 * Evenement à fort impact qui ne saurait être traité par les processus habituels
 * Les événements accidentels : ne résultant pas d'une activité malveillante sur les SI.
+
 
 ### Quelques Chiffres
 * 55% ont déjà subi une cyber-attaque
@@ -25,20 +27,16 @@
 1. Organiser la sortie de crise
 1. Tirer les leçons de la crise
 
+
 ### Déclenchement du dispositif de crise cyber
 
-Impact faible	|
-Impact moyen	|	->	remédiation de l'incident
-Impact majeur	|
-
-Impact critique |	->	Analyser de la situation -> | Rémédiation de l'incident
-							    | Etat critique
+Impact faible / Impact moyen / Impact majeur -> remédiation de l'incident
+Impact critique -> Analyser de la situation -> Rémédiation de l'incident / Etat critique
 
 
 ### Activer ses réseaux de soutien
 
-Obligation pour les entreprises de sécuriser les données personnelles
-
+#### Obligation pour les entreprises de sécuriser les données personnelles
 * CNIL
 	* Permettre à la CNIL de comprendre le contexte et l'ampleur de la crise
 	* Assurer un suivi par la CNIL du plan de remédiation
@@ -62,7 +60,7 @@ Obligation pour les entreprises de sécuriser les données personnelles
 
 ### Sortie de crise
 
-####Retour d'expérience après une crise cyber
+#### Retour d'expérience après une crise cyber
 * A chaud (en général à l'oral)
 	* Recueillir et partager les observations
 	* Acter formellement la fin de crise
